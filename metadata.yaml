@@ -1,0 +1,24 @@
+_repo: Povesti_62916
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Slavici, Ioan
+    alias: Slavich, Ioan
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '39778'
+    url: http://www.gutenberg.org/2009/agents/39778
+    wikipedia: http://en.wikipedia.org/wiki/Ioan_Slavici
+description: ''
+gutenberg_issued: '2020-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62916'
+language: ro
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Povesti
+url: http://www.gutenberg.org/ebooks/62916
